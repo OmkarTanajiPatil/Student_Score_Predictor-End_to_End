@@ -213,3 +213,7 @@ __marimo__/
 # Catboost trainer
 notebook/catboost_info/
 artifacts/
+
+# Log Folder
+logs/*
+!logs/.gitkeep
