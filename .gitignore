@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.artifacts
 build/
 develop-eggs/
 dist/
@@ -208,3 +209,7 @@ __marimo__/
 
 #My venv
 .venv
+
+# Catboost trainer
+notebook/catboost_info/
+artifacts/
