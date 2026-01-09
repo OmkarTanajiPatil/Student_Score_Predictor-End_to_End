@@ -12,7 +12,6 @@ __pycache__/
 # ML generated files
 logs/
 artifacts/
-catboost_info/
 mlproject.egg-info/
 
 # Notebooks
