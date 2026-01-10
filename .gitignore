@@ -221,3 +221,5 @@ logs/*
 
 # Ruff Extensoin file
 ruff.toml
+
+.idea/
